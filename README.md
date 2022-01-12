@@ -1,4 +1,14 @@
-### Hi there 👋
+
+☀️▓▓❄️▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓  
+▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
+## Hi there 👋🥶
+
+<img src="https://img.shields.io/static/v1?label=Zup&message=Foo&color=brightgreen&style=flat" alt="ZupFoo">
+<a href="https://github.com/jorgeuos"><img src="https://img.shields.io/github/followers/jorgeuos.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://twitter.com/jorgeuos1"><img src="https://img.shields.io/twitter/url?label=jorgeuos1&logoColor=brightgreen&style=social&url=https%3A%2F%2Ftwitter.com%2Fjorgeuos1" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/jorgeuos/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?label=jorgeuos&logoColor=brightgreen&style=flat&logo=linkedin" alt="LinkedIn"></a>
+
 
 <!--
 **jorgeuos/jorgeuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
