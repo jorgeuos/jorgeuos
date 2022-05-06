@@ -1,8 +1,21 @@
+<p align="center">
+    <img width="128" src="https://www.gravatar.com/avatar/32651b88380c95164371f4577c6bdade?s=128&d=mp" alt="Jorgeuos">
+</p>
+<p align="center">
+  Welcome to my Github.<br/>
+  Explore my repos or check out my Github Pages-Page(<a href="https://jorgeuos.github.io/">JorgeuosGithubIO</a>) and read my blog posts.
+</p>
+<p align="center">
+  © Most of my stuff is free(all of my stuff 🤔), feel free to use, but on your own risk.
+</p>
 
+
+<!--
 ☀️▓▓❄️▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓  
 ▓▓▓▓▓▓▓❄️▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
 ## Hi there 👋🥶
+-->
 
 <img src="https://img.shields.io/static/v1?label=Zup&message=Foo&color=brightgreen&style=flat" alt="ZupFoo">
 <a href="https://github.com/jorgeuos"><img src="https://img.shields.io/github/followers/jorgeuos.svg?label=GitHub&style=social" alt="GitHub"></a>
