@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="128" src="https://www.gravatar.com/avatar/32651b88380c95164371f4577c6bdade?s=128&d=mp" alt="Jorgeuos">
+    <img width="128" src="https://en.gravatar.com/userimage/215680831/43dd9ba64bb88e9cfa2393d364daf7a7.png?size=256" alt="Jorgeuos">
 </p>
 <p align="center">
   Welcome to my Github.<br/>
