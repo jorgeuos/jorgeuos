@@ -1,7 +1,4 @@
 <p align="center">
-    <img width="128" src="https://en.gravatar.com/userimage/215680831/43dd9ba64bb88e9cfa2393d364daf7a7.png?size=256" alt="Jorgeuos">
-</p>
-<p align="center">
   Welcome to my Github.<br/>
   Explore my repos or check out my Github Pages-Page(<a href="https://jorgeuos.github.io/">JorgeuosGithubIO</a>) and read my blog posts.
 </p>
@@ -24,6 +21,9 @@
 
 
 <!--
+<p align="center">
+    <img width="128" src="https://en.gravatar.com/userimage/215680831/43dd9ba64bb88e9cfa2393d364daf7a7.png?size=256" alt="Jorgeuos">
+</p>
 **jorgeuos/jorgeuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
